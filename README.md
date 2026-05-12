@@ -1,6 +1,7 @@
 # ☁️ Gerenciamento de Instâncias EC2 na AWS
 
-![Diagrama de Arquitetura](Diagrama%20sin%20titulo.drawio.png)
+![Diagrama de Arquitetura]<img width="399" height="79" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/efcd10ad-4493-4d62-8cac-5fe09e529c8e" />
+
 
 ## 📋 Descrição do Projeto
 Este repositório contém a documentação de uma arquitetura de nuvem AWS desenhada para o desafio prático da **DIO**. O objetivo é demonstrar o fluxo de dados entre serviços de armazenamento, processamento serverless e computação elástica.
