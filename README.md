@@ -17,6 +17,8 @@ A solução desenhada no **Draw.io** integra os seguintes serviços:
 * **Organização de Fluxo**: Definição clara das responsabilidades de cada serviço na arquitetura.
 * **Infraestrutura como Código (Mentalidade)**: Preparação do ambiente para futuras automações.
 
+### 📋 Comece a usar o Amazon EC2 
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 
 ### 📋 Guia completo para uso do GitHub 
 https://docs.github.com/es
