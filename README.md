@@ -1,6 +1,6 @@
 # ☁️ Gerenciamento de Instâncias EC2 na AWS
 
-![Diagrama de Arquitetura]<img width="399" height="79" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/efcd10ad-4493-4d62-8cac-5fe09e529c8e" />
+<img width="399" height="79" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/efcd10ad-4493-4d62-8cac-5fe09e529c8e" />
 
 
 ## 📋 Descrição do Projeto
